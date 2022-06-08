@@ -1,0 +1,27 @@
+The datasets and high resolution figures can be found in the following link.
+
+https://unmm-my.sharepoint.com/:f:/g/personal/parvez_unm_edu/EhIXDr0vsuFFhkQQgyukwpYB9YEVu6jqr9EBs6vmcp_xeA?e=lvpeHz
+
+LiDAR sensor parameters in the datasets:
+
+Synthetic:
+	Sensor name: Velodyne HDL-64E
+	Number of vertical channels = ROW = 64
+	Number of horizontal channels = COL = 2000
+	Vertical resolution = 0.45
+	Horizontal resolution = 0.18
+
+
+UNR:
+	Sensor name: Velodyne VLP-16
+	Number of vertical channels = ROW = 16
+	Number of horizontal channels = COL = 3600
+	Vertical resolution = 1.875
+	Horizontal resolution = 0.1
+
+TAMU:
+	Sensor name: Velodyne VLP-16
+	Number of vertical channels = ROW = 16
+	Number of horizontal channels = COL = 1800
+	Vertical resolution = 1.875
+	Horizontal resolution = 0.2
